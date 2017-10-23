@@ -1,6 +1,6 @@
-	                        Drcom linux登陆脚本                              
+ Drcom linux登陆脚本                              
 	                                                                   
-                     -= By 青枫 —— 龚清峰=-                    
+ -= By 青枫 —— 龚清峰=-                    
                                                                                                                                                                                                      
  ★ 此脚本采用python程序登陆，运行脚本之前请确保阅读以下内容：      
                                                                    
@@ -16,7 +16,7 @@
                                                                    
  ★ QQ：894237294                                      
                                                                   
-                   〓个人博客：blog.spursgo.com〓                     
+ 〓个人博客：blog.spursgo.com〓                     
                                                                  
 
 将Drcom.py与LoginDrcom.sh下载完毕后，执行 chmod +x LoginDrcom.sh, 赋予该文件可执行权限，然后执行./LoginDrcom.sh 
