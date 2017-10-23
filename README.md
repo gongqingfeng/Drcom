@@ -14,9 +14,9 @@
                                                                
  ☆ 5.注意账号信息泄露问题，否则后果自负！                                
                                                                    
- ★ QQ：894237294                                      
+ ★ 若有侵权，请告知，QQ：894237294，会以最快速度撤下程序。                                     
                                                                   
- 〓个人博客：blog.spursgo.com〓                     
+ 〓个人博客：[blog.spursgo.com](http://blog.spursgo.com)〓                     
                                                                  
 
 将Drcom.py与LoginDrcom.sh下载完毕后，执行 chmod +x LoginDrcom.sh, 赋予该文件可执行权限，然后执行./LoginDrcom.sh 
