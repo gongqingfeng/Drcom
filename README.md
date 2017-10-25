@@ -1,23 +1,13 @@
- Drcom linux登陆脚本                              
+ Drcom 登陆脚本(Linux and Windows 双版本)                              
 	                                                                   
  -= By 青枫 —— 龚清峰=-                    
                                                                                                                                                                                                      
- ★ 此脚本采用python程序登陆，运行脚本之前请确保阅读以下内容：      
-                                                                   
- ☆ 1.安装好python程序                    
-                                                                  
- ★ 2.脚本与Drcom.py文件在同一文件夹            
-                                                                   
- ☆ 3.执行登录操作之前请先按照指引设置帐号密码            
-      
- ★ 4.分享脚本之前一定记得执行脚本的去除帐号密码功能    
+ ★ 此脚本采用python程序登陆，分为Linux sh脚本 和 Windows bat批处理脚本  
                                                                
- ☆ 5.注意账号信息泄露问题，否则后果自负！                                
+ ☆ 密码存储采用未加密方式，注意账号信息泄露问题，否则后果自负！                                
                                                                    
  ★ 若有侵权，请告知，QQ：894237294，会以最快速度撤下程序。                                     
                                                                   
  〓个人博客：[blog.spursgo.com](http://blog.spursgo.com)〓                     
                                                                  
-
-将Drcom.py与LoginDrcom.sh下载完毕后，执行 chmod +x LoginDrcom.sh, 赋予该文件可执行权限，然后执行./LoginDrcom.sh 
 
