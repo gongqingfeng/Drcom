@@ -16,6 +16,16 @@
 
 ★ 若有侵权，请告知，QQ：894237294，会以最快速度撤下程序。                                    
 
-〓个人博客：blog.spursgo.com〓                    
+〓个人博客：blog.spursgo.com〓
 
-将Drcom.py与LoginDrcom.sh下载完毕后，执行 chmod +x LoginDrcom.sh, 赋予该文件可执行权限，然后执行./LoginDrcom.sh
+macOS注意事项：
+mac自带的sed命令，因为其是基于bsd，所以与常用的gnu不一样，所以最好还是能够使用gnu下的sed，那么对于mac，就需要通过命令行来安装gnu-sed，具体安装过程如下所示：
+> 1.brew install gnu-sed --with-default-names  
+> 2.vi ~/.zshrc
+```
+export PATH="/usr/local/opt/gnu-sed/libexec/gnubin:$PATH"
+```
+> 3.source ~/.zshrc 或者新开窗口，让设置生效
+
+通用使用方法：
+执行 chmod +x LoginDrcom*.sh, 赋予该文件可执行权限，然后执行相应版本的文件 如：./LoginDrcomLinux.sh
